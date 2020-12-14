@@ -42,7 +42,4 @@
     
 3. 필요 패키지
     + 대다수의 패키지는 import시 자동으로 연동이 됩니다만, 예외의 경우가 있으므로 패키지를 설치해야 할 경우가 있습니다.
-    + Ex) !pip install optuna, !pip install catboost, !pip install lightgbm
-    
-4. 
-    
+    + Ex) ```!pip install optuna``` ```!pip install catboost``` ```pip install lightgbm```
